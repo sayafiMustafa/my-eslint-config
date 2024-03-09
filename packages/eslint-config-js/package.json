@@ -1,0 +1,20 @@
+{
+  "name": "@jeniex/eslint-config-js",
+  "version": "0.0.3",
+  "author": "JenieX",
+  "license": "MIT",
+  "homepage": "https://github.com/JenieX/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@jeniex/eslint-config-base": "^0.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

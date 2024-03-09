@@ -1,0 +1,4 @@
+{
+  "extends": "@sayafi"
+  // "extends": "./packages/eslint-config/index.js"
+}

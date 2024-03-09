@@ -1,0 +1,11 @@
+{
+  "name": "@sayafi/eslint-config-monorepo",
+  "version": "1.0.0",
+  "author": "sayafiMustafa",
+  "license": "MIT",
+  "homepage": "https://github.com/sayafiMustafa/my-eslint-config",
+  "devDependencies": {
+    "@sayafi/eslint-config": "^0.0.3",
+    "@types/node": "^20.5.7"
+  }
+}
